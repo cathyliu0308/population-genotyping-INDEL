@@ -1,1 +1,1 @@
-# population-genotyping-INDEL-calling-
+./read_vcf xxx.vcf output
